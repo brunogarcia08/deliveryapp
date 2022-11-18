@@ -1,0 +1,7 @@
+.container{
+  @apply bg-gradient-to-b from-white to-lightBlue !block h-screen p-8 mb-40 relative;
+  
+}
+  
+ 
+  

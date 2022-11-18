@@ -32,3 +32,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Reference
+
+- Layout: [Layout Figma](<https://www.figma.com/file/vljWfhyuCxk8RXbPHPocWB/Mobile-App-UI-Kit-Design-(Community)?node-id=8%3A162>)
+
+## Sprints - Entregas de telas
+
+1 - Tela Onboarding-3
+2 - Tela Sign in
+3 - Sign Up
+4 - Forgot password
+5 - Home
+6 - Lateral bar
+7 - My Orders
+8 - Restaurant list
+9 - Food list
+10 - Cart
+11 - Checkout
+12 - Review

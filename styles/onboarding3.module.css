@@ -1,0 +1,13 @@
+.container{
+  @apply bg-gradient-to-b from-white to-lightBlue w-full h-screen p-8 md:flex;
+}
+
+.container > div{
+  @apply md:flex md:flex-col md:h-full md:place-items-center;
+  @apply md:justify-center;
+}
+
+
+.buttonFacebook{
+  @apply !bg-sky-500 hover:!bg-sky-600 active:bg-sky-700 focus:outline-none focus:ring focus:ring-sky-300;
+}

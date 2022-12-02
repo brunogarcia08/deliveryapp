@@ -1,5 +1,5 @@
 .container{
-  @apply bg-gradient-to-b from-white to-lightBlue !block h-screen p-8 mb-40 relative;
+  @apply relative bg-gradient-to-b from-white to-lightBlue !block h-auto pt-8 px-8 pb-24;
   
 }
   
